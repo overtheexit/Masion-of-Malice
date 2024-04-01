@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jmart394/Documents/GitHub/Masion-of-Malice/HorrorEngine/Content/HorrorEngine/Maps/StartLevel.umap",
+				"C:/Users/jmart394/Documents/GitHub/Masion-of-Malice/HorrorEngine/Content/HorrorEngine/Maps/Overview.umap"
+			]
+		}
+	]
+}
