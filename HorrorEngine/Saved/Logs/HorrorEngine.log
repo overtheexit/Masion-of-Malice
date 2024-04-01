@@ -5519,3 +5519,14 @@ Portal
 [2024.04.01-23.46.46:472][460]AssetCheck: New page: Asset Save: Overview
 [2024.04.01-23.46.46:472][460]LogContentValidation: Display: Validating /Script/Engine.World /Game/HorrorEngine/Maps/Overview.Overview
 [2024.04.01-23.46.48:225][578]LogViewport: Scene viewport resized to 1014x580, mode Windowed.
+[2024.04.01-23.47.37:820][389]LogViewport: Scene viewport resized to 2038x1252, mode Windowed.
+[2024.04.01-23.49.14:697][621]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-23.49.14:777][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.04.01-23.49.15:590][621]LogSavePackage: Moving output files for package: /Game/HorrorEngine/Maps/Overview
+[2024.04.01-23.49.15:590][621]LogSavePackage: Moving '../../../../../../Users/jmart394/Documents/GitHub/Masion-of-Malice/HorrorEngine/Saved/Overview234B28B94A152063A6F02F956E168A1F.tmp' to '../../../../../../Users/jmart394/Documents/GitHub/Masion-of-Malice/HorrorEngine/Content/HorrorEngine/Maps/Overview.umap'
+[2024.04.01-23.49.15:603][621]LogFileHelpers: All files are already saved.
+[2024.04.01-23.49.15:603][621]LogFileHelpers: Saving map 'Overview' took 0.868
+[2024.04.01-23.49.15:620][621]LogFileHelpers: InternalPromptForCheckoutAndSave took 923 ms (total: 3.77 sec)
+[2024.04.01-23.49.15:628][621]AssetCheck: New page: Asset Save: Overview
+[2024.04.01-23.49.15:628][621]LogContentValidation: Display: Validating /Script/Engine.World /Game/HorrorEngine/Maps/Overview.Overview
+[2024.04.01-23.49.18:435][858]LogViewport: Scene viewport resized to 1014x580, mode Windowed.
