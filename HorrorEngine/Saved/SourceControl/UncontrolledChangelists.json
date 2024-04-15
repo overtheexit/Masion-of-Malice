@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/aryanvakharia/Desktop/Masion-of-Malice/HorrorEngine/Content/HorrorEngine/Blueprints/BP_Enemy1.uasset",
+				"/Users/aryanvakharia/Desktop/Masion-of-Malice/HorrorEngine/Content/HorrorEngine/Enemy/MeshAndAnimations/Enemy_AnimBP.uasset",
+				"/Users/aryanvakharia/Desktop/Masion-of-Malice/HorrorEngine/Content/HorrorEngine/Enemy/MeshAndAnimations/IdleToRun_BlendSpace.uasset",
+				"/Users/aryanvakharia/Desktop/Masion-of-Malice/HorrorEngine/Content/HorrorEngine/Maps/Overview.umap",
+				"/Users/aryanvakharia/Desktop/Masion-of-Malice/HorrorEngine/Content/HorrorEngine/Enemy/BP_Enemy1.uasset",
+				"/Users/aryanvakharia/Desktop/Masion-of-Malice/HorrorEngine/Content/HorrorEngine/Enemy/Enemy1_AnimBP.uasset",
 				"C:/Users/aryannv2/Downloads/Masion-of-Malice/HorrorEngine/Content/HorrorEngine/Enemy/MeshAndAnimations/Demon.uasset",
 				"C:/Users/aryannv2/Downloads/Masion-of-Malice/HorrorEngine/Content/HorrorEngine/Enemy/MaterialsAndINSTs/DemanSkinMat.uasset",
 				"C:/Users/aryannv2/Downloads/Masion-of-Malice/HorrorEngine/Content/HorrorEngine/Enemy/MeshAndAnimations/Demon_Skeleton1.uasset",
@@ -23,10 +29,6 @@
 				"C:/Users/aryannv2/Downloads/Masion-of-Malice/HorrorEngine/Content/HorrorEngine/Enemy/MeshAndAnimations/Demon_Anim_metarig_StrongWalk.uasset",
 				"C:/Users/aryannv2/Downloads/Masion-of-Malice/HorrorEngine/Content/HorrorEngine/Enemy/MeshAndAnimations/Demon_Anim_metarig_TwitchyWalk.uasset",
 				"C:/Users/aryannv2/Downloads/Masion-of-Malice/HorrorEngine/Content/HorrorEngine/Blueprints/BP_Enemy1.uasset",
-				"C:/Users/aryannv2/Downloads/Masion-of-Malice/HorrorEngine/Content/HorrorEngine/Enemy/MeshAndAnimations/Demon_Anim_metarig_AlertToRunTransition.uasset",
-				"C:/Users/aryannv2/Downloads/Masion-of-Malice/HorrorEngine/Content/HorrorEngine/Enemy/MeshAndAnimations/Demon_Anim_metarig_ClawLicking.uasset",
-				"C:/Users/aryannv2/Downloads/Masion-of-Malice/HorrorEngine/Content/HorrorEngine/Enemy/MeshAndAnimations/Demon_Anim_metarig_FastRun.uasset",
-				"C:/Users/aryannv2/Downloads/Masion-of-Malice/HorrorEngine/Content/HorrorEngine/Enemy/MeshAndAnimations/Demon_Anim_metarig_GimpWalk.uasset",
 				"C:/Users/jmart394/Documents/GitHub/Masion-of-Malice/HorrorEngine/Content/HorrorEngine/Maps/StartLevel.umap",
 				"C:/Users/jmart394/Documents/GitHub/Masion-of-Malice/HorrorEngine/Content/HorrorEngine/Maps/Overview.umap"
 			]
