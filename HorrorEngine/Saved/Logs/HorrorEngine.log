@@ -1576,3 +1576,15 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.15-22.36.22:860][696]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/HorrorEngine/Enemy/BP_Enemy1.BP_Enemy1
 [2024.04.15-22.36.58:010][495]BlueprintLog: New page: Compile BP_Enemy1
 [2024.04.15-22.36.58:121][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.04.15-22.42.44:033][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.04.15-22.42.44:035][601]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/HorrorEngine/Maps/Demonstration' took 0.028
+[2024.04.15-22.42.44:036][601]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HorrorEngine/Enemy/EnemyController] ([2] browsable assets)...
+[2024.04.15-22.42.44:036][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorEngine/Enemy/EnemyController]
+[2024.04.15-22.42.44:041][601]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HorrorEngine/Enemy/EnemyController_Auto1
+[2024.04.15-22.42.44:041][601]LogSavePackage: Moving '../../../../../../Users/aryannv2/Downloads/Masion-of-Malice/HorrorEngine/Saved/EnemyController_Auto1842674CD48983E438732EF87F0D22F46.tmp' to '../../../../../../Users/aryannv2/Downloads/Masion-of-Malice/HorrorEngine/Saved/Autosaves/Game/HorrorEngine/Enemy/EnemyController_Auto1.uasset'
+[2024.04.15-22.42.44:042][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HorrorEngine/Enemy/BP_Enemy1] ([2] browsable assets)...
+[2024.04.15-22.42.44:150][601]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/HorrorEngine/Enemy/BP_Enemy1.BP_Enemy1]
+[2024.04.15-22.42.44:150][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorEngine/Enemy/BP_Enemy1]
+[2024.04.15-22.42.44:158][601]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HorrorEngine/Enemy/BP_Enemy1_Auto1
+[2024.04.15-22.42.44:158][601]LogSavePackage: Moving '../../../../../../Users/aryannv2/Downloads/Masion-of-Malice/HorrorEngine/Saved/BP_Enemy1_Auto19B9D9DB844F44E3ADBE73BBEBE2BF746.tmp' to '../../../../../../Users/aryannv2/Downloads/Masion-of-Malice/HorrorEngine/Saved/Autosaves/Game/HorrorEngine/Enemy/BP_Enemy1_Auto1.uasset'
+[2024.04.15-22.42.44:159][601]LogFileHelpers: Auto-saving content packages took 0.124
