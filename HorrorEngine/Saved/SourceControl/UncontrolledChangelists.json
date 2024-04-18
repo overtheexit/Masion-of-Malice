@@ -6,6 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"/Users/ysl/Desktop/masion_of_malice/Masion-of-Malice/HorrorEngine/Content/HorrorEngine/Maps/Demonstration.umap",
+				"/Users/ysl/Desktop/masion_of_malice/Masion-of-Malice/HorrorEngine/Content/HorrorEngine/Maps/Overview.umap",
+				"/Users/ysl/Desktop/masion_of_malice/Masion-of-Malice/HorrorEngine/Content/HorrorEngine/Blueprints/Widgets/SubtitleWB.uasset",
 				"C:/Users/aryannv2/Downloads/Masion-of-Malice/HorrorEngine/Content/HorrorEngine/Enemy/MeshAndAnimations/Demon.uasset",
 				"C:/Users/aryannv2/Downloads/Masion-of-Malice/HorrorEngine/Content/HorrorEngine/Enemy/MaterialsAndINSTs/DemanSkinMat.uasset",
 				"C:/Users/aryannv2/Downloads/Masion-of-Malice/HorrorEngine/Content/HorrorEngine/Enemy/MeshAndAnimations/Demon_Skeleton1.uasset",
